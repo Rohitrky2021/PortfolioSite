@@ -401,6 +401,14 @@ section > h2{
 .proj-card:hover::before{
   transform:scaleX(1) ;
 }
+#proj0{
+  background-image: url(./images/projects/Project0.png);
+}
+#projj1{
+  margin-left: 120px;
+
+  background-image: url(./images/projects/Projectt1.png);
+}
 
 #proj1{
   background-image: url(./images/projects/Project1.png);
